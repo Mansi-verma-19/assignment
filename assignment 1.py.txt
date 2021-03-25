@@ -5,7 +5,7 @@ if alt <=3000 :
 	print (" Its safe for landing !!! \n You can open your landing gear.")
 	
 elif  alt>3000 and alt <=6000 :
-	print( "You can try to land !!! \n Come down to 3000 ft then open your landing gear. ")
+	print ("  You can try to land !!! \n Come down to 3000 ft then open your landing gear. ")
 	
 elif alt > 6000:
-	print(" You are not allowed to land !!! \n       Just go around.")	
+	print ("  You are not allowed to land !!! \n       Just go around.")	
